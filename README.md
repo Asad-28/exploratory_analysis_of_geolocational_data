@@ -7,8 +7,12 @@ This project involves the use of K-Means Clustering to find the best accommodati
 ## Project Outcome
 You should have a map centered on the location you chose, with the locations differentiated
 by colour scheme. Have a look at the screenshot below for reference.
+
+![Screenshot (23)](https://user-images.githubusercontent.com/102010266/180993792-b045a4d7-829d-4ac3-b935-e930e77116c4.png)
+
 ## Project Flow 📈
 
+![Screenshot (25)](https://user-images.githubusercontent.com/102010266/180993924-e85a40e3-52cc-4ef5-a3e0-2d05f29aa43e.png)
 
 ## How to run the code?🏃‍♂️
 1. Used Visual Studio Code or Google Colab to execute this project.

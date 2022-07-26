@@ -100,6 +100,7 @@ them.
 #### Get Geolocational Data from Foursquare API
 Now that we know the best K value for our population, we need to get geolocational data
 from the Foursquare API to find these people some accomodation!
+
         resta=[]
         oth=[]
         for lat,long in zip(nearby_venues['venue.location.lat'],nearby_venues['venue.location.lng']):
